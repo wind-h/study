@@ -22,7 +22,7 @@ public class ThreadTest {
         SubThread w3 = new SubThread();
         w1.setName("窗口1");
         w2.setName("窗口2");
-        w3.setName("窗口3");
+        w3.setName("窗口4");
         w1.start();
         w2.start();
         w3.start();
