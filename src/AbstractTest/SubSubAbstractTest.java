@@ -5,6 +5,11 @@ class SubSubAbstract extends SubAbstractTest implements  InterfaceTest{
     void abs03() {
         System.out.println("abs03");
     }
+
+    @Override
+    public void x() {
+
+    }
 }
 
 
