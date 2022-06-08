@@ -1,4 +1,4 @@
-package com.wind.study.AbstractTest;
+package com.wind.study.abstracttest;
 
 class SubSubAbstract extends SubAbstractTest implements InterfaceTest {
     @Override
@@ -13,6 +13,9 @@ class SubSubAbstract extends SubAbstractTest implements InterfaceTest {
 }
 
 
+/**
+ * @author hsc
+ */
 public class SubSubAbstractTest {
     public static void main(String[] args) {
         SubSubAbstract ssa = new SubSubAbstract();

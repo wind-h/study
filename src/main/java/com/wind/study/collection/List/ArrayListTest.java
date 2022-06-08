@@ -2,6 +2,9 @@ package com.wind.study.collection.List;
 
 import java.util.*;
 
+/**
+ * @author hsc
+ */
 public class ArrayListTest {
     public static void main(String[] args) {
         ArrayList array = new ArrayList();

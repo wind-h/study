@@ -3,6 +3,9 @@ package com.wind.study.collection.map;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author hsc
+ */
 public class HashMapTest {
     public static void main(String[] args) {
         Map map = new HashMap<String, String>();

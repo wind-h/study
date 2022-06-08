@@ -1,5 +1,8 @@
-package com.wind.study.AbstractTest;
+package com.wind.study.abstracttest;
 
+/**
+ * @author hsc
+ */
 public abstract class AbstractTest {
 
     abstract void abs01();

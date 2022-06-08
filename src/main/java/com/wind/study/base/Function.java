@@ -1,7 +1,10 @@
-package com.wind.study.Base;
+package com.wind.study.base;
 
 import static java.lang.System.out;
 
+/**
+ * @author hsc
+ */
 public class Function {
     int x;
     int y;
